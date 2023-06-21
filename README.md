@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/saltsamuraii" target="_blank">Kirill</a> 
+  <span>🌱 I’m currently learning React + Redux and other frontend stuff</span>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
