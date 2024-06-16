@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/saltsamuraii" target="_blank">Kirill</a> 
   <h2 align="center">🌱 I’m Frontend developer React/Redux/React Effector</h2>
-  <a src='https://frontmemerdev.netlify.app/'>My Website</a> 
+  <a href='https://frontmemerdev.netlify.app/'>My Website</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
